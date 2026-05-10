@@ -6,3 +6,7 @@ requirments: GCC
 WARNING: MAKE SURE TO PUT BOTH FILES (install.sh and cquarium.c) IN THE SAME FOLDER
 
 you can use parameters to select the number of animals, ex: -fish 10 (maximum of 20)
+
+
+
+Windows version: https://github.com/IvyDontLie/CQuarium-Windows
